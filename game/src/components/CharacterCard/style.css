@@ -1,0 +1,22 @@
+.card {
+
+  border-radius: 2px;
+  height: 340px;
+  margin: 1rem;
+  position: relative;
+  width: 310px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  
+}
+
+.card > .img-container {
+
+  overflow: hidden;
+
+}
+.card > .img-container > img {
+  width: 100%
+}
+
+
+
