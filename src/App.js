@@ -9,6 +9,7 @@ class App extends Component {
   state = {
     characters
   };
+  
 
 
   // Map over this.state.characters and render a CharacterCard component for each character object
@@ -21,6 +22,7 @@ class App extends Component {
         
             id={character.id}
             image={character.image}
+
             
           />
         ))}
