@@ -1,3 +1,6 @@
+# React based memory game with characters from Game of Thrones
+## Click all pictures only once and you win!
+![memory-s](https://user-images.githubusercontent.com/45444261/70340681-dc254a80-1816-11ea-80c1-5f1e59659b30.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
